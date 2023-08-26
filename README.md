@@ -23,6 +23,16 @@ conda env create -f environment-gpu.yml
 
 Or you can manually install the required libraries (see the contents of the environemnt*.yml files) using pip.
 
+### Tech Stack
+
+  * Python
+  * Keras (for neural network modeling)
+  * OpenCV (for image processing)
+  * NumPy, Pandas (for data manipulation)
+  * Flask (for web server)
+  * SocketIO (for communication with the Udacity simulator)
+  * Udacity Self-Driving Car Simulator
+
 
 ### Run the pretrained model
 
