@@ -1,0 +1,23 @@
+name: car-behavioral-cloning
+channels:
+  - conda-forge
+dependencies:
+  - python=3.6
+  - pip
+  - numpy
+  - matplotlib
+  - jupyter
+  - opencv
+  - pillow
+  - scikit-learn
+  - scikit-image
+  - scipy
+  - h5py
+  - eventlet
+  - flask-socketio
+  - seaborn
+  - pandas
+  - imageio
+  - moviepy
+  - tensorflow=1.15
+  - keras=2.2
